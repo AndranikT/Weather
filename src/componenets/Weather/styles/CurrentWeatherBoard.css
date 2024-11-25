@@ -1,0 +1,18 @@
+.board-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 180px;
+    padding: 8px;
+    background: darkcyan;
+    color: white;
+    border-radius: 15px;
+    font-size: 24px;
+}
+.con {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2px;
+}
